@@ -1,5 +1,3 @@
-# IHS-token
-
 The Humble and Pious Platform:
 Introducing IHS Token for Global Donations 
 
